@@ -1,0 +1,30 @@
+## 20211005
+
+# face
+ emotion.hdf5 -> emotion-37-0.65.hdf5
+ ageGender.hdf5 -> weights.28-3.80.hdf5
+ headpose.pkl -> hopenet_robust_alpha1.pkl
+
+# object
+ faster-rcnn(torchivision)
+
+# keypoints
+ keypoints(torchvision)
+
+# places365
+ resnet18
+
+# caption
+ weight493084032.pth (transformer)
+
+# facedetect
+ haarcascade_frontalface_default.xml
+
+# cartoon
+ cartoon.pth(FacialCartoonization)
+
+# mask
+ mask-108-1.00.hdf5
+
+# env (requirements.txt)
+ 2021-03-10
